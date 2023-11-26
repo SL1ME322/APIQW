@@ -1,0 +1,8 @@
+stages:
+  - test
+test-job:
+  stage: test
+  script:
+    - echo  "Running test job"
+    - echo "This is a test job to verify the GitLab CI Runner setup"
+    - echo "Add your test commands here"
