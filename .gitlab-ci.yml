@@ -1,8 +1,17 @@
 stages:
+  - build
   - test
-test-job:
-  stage: test
+
+build:
+  stage: build
   script:
-    - echo  "Running test job"
-    - echo "This is a test job to verify the GitLab CI Runner setup"
-    - echo "Add your test commands here"
+    - dotnet build --configuration Release
+    - dontet publish --no-build --no-restore --configuration Release --output $CI_PROJECT_DIR/publish/ #публикация проекта
+  only:
+    - NewBranch
+
+
+test-job:
+    stage: test
+    script:
+      - echo "Running test job"
