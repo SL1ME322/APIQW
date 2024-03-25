@@ -1,0 +1,22 @@
+2024-03-21 16:47:45,362 - main - INFO - Connection to the database established successfully.
+2024-03-21 16:47:52,710 - main - INFO - Connection to the database established successfully.
+2024-03-21 16:47:57,582 - main - INFO - Connection to the database established successfully.
+2024-03-21 16:48:42,617 - main - ERROR - Error connecting to the database: ('42000', '[42000] [Microsoft][ODBC SQL Server Driver][SQL Server]Не удается открыть базу данных "EstateBoo", запрашиваемую именем входа. Не удалось выполнить вход. (4060) (SQLDriverConnect); [42000] [Microsoft][ODBC SQL Server Driver][SQL Server]Не удается открыть базу данных "EstateBoo", запрашиваемую именем входа. Не удалось выполнить вход. (4060)')
+2024-03-21 16:48:47,187 - main - INFO - Connection to the database established successfully.
+2024-03-21 16:48:50,264 - main - ERROR - Error connecting to the database: ('42000', '[42000] [Microsoft][ODBC SQL Server Driver][SQL Server]Не удается открыть базу данных "Р«Р«Р«Р«Р«", запрашиваемую именем входа. Не удалось выполнить вход. (4060) (SQLDriverConnect); [42000] [Microsoft][ODBC SQL Server Driver][SQL Server]Не удается открыть базу данных "Р«Р«Р«Р«Р«", запрашиваемую именем входа. Не удалось выполнить вход. (4060)')
+2024-03-21 16:49:13,365 - main - ERROR - Error connecting to the database: ('42000', '[42000] [Microsoft][ODBC SQL Server Driver][SQL Server]Не удается открыть базу данных "Р«Р«Р«Р«Р«", запрашиваемую именем входа. Не удалось выполнить вход. (4060) (SQLDriverConnect); [42000] [Microsoft][ODBC SQL Server Driver][SQL Server]Не удается открыть базу данных "Р«Р«Р«Р«Р«", запрашиваемую именем входа. Не удалось выполнить вход. (4060)')
+2024-03-21 16:49:22,639 - main - ERROR - Error connecting to the database: ('42000', '[42000] [Microsoft][ODBC SQL Server Driver][SQL Server]Не удается открыть базу данных "Р«Р«Р«Р«Р«", запрашиваемую именем входа. Не удалось выполнить вход. (4060) (SQLDriverConnect); [42000] [Microsoft][ODBC SQL Server Driver][SQL Server]Не удается открыть базу данных "Р«Р«Р«Р«Р«", запрашиваемую именем входа. Не удалось выполнить вход. (4060)')
+2024-03-21 16:49:38,448 - main - INFO - Connection to the database established successfully.
+2024-03-21 16:50:26,279 - main - INFO - Status Code 200: Registration sucessful
+2024-03-21 16:50:31,422 - main - INFO - User: qw authenticated sucessfully
+2024-03-21 16:51:49,128 - main - INFO - Connection to the database established successfully.
+2024-03-21 16:51:51,991 - main - INFO - Connection to the database established successfully.
+2024-03-21 16:52:00,315 - main - INFO - Connection to the database established successfully.
+2024-03-21 16:52:04,177 - main - INFO - Connection to the database established successfully.
+2024-03-24 18:45:00,311 - main - INFO - Connection to the database established successfully.
+2024-03-24 18:45:09,182 - main - INFO - Request to endpoint: / sucessful
+2024-03-24 23:46:01,329 - main - INFO - Request to endpoint: / sucessful
+2024-03-24 23:46:20,635 - main - INFO - Connection to the database established successfully.
+2024-03-24 23:46:44,147 - main - INFO - Status Code 200: Registration sucessful
+2024-03-24 23:47:17,620 - main - INFO - User: string authenticated sucessfully
+2024-03-24 23:47:52,252 - main - INFO - Got user

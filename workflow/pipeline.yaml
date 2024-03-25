@@ -1,0 +1,19 @@
+name: Estate_Book_API
+on: 
+  push:
+    branches:
+      -news
+jobs:
+  checkstyle-python:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Git clone project
+        uses: actions/checkout@v2
+      - name: Set version python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.12.2'
+      - name: Install dependencies python
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
