@@ -2,7 +2,7 @@ name: Estate_Book_API
 on: 
   push:
     branches:
-      -news
+      - main
 jobs:
   checkstyle-python:
     runs-on: ubuntu-latest
