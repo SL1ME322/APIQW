@@ -20,3 +20,15 @@
 2024-03-24 23:46:44,147 - main - INFO - Status Code 200: Registration sucessful
 2024-03-24 23:47:17,620 - main - INFO - User: string authenticated sucessfully
 2024-03-24 23:47:52,252 - main - INFO - Got user
+2024-03-29 14:25:13,109 - main - INFO - Connection to the database established successfully.
+2024-03-29 14:25:15,188 - main - INFO - Request to endpoint: / sucessful
+2024-03-29 15:00:59,570 - main - INFO - Request to endpoint: / sucessful
+2024-03-29 18:43:49,967 - main - INFO - Connection to the database established successfully.
+2024-04-01 10:52:48,167 - main - INFO - Connection to the database established successfully.
+2024-04-01 10:52:48,597 - main - INFO - Request to endpoint: / sucessful
+2024-04-01 10:53:10,460 - main - INFO - Connection to the database established successfully.
+2024-04-01 11:22:35,832 - main - INFO - Request to endpoint: / sucessful
+2024-04-01 11:28:19,062 - main - INFO - Connection to the database established successfully.
+2024-04-01 11:28:19,849 - main - INFO - Request to endpoint: / sucessful
+2024-04-01 11:30:06,435 - main - INFO - Connection to the database established successfully.
+2024-04-01 11:30:21,344 - main - INFO - Connection to the database established successfully.
